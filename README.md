@@ -1,4 +1,4 @@
-## Hi there 👋
+## I use arch btw
 
 <!--
 **koftamainee/koftamainee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
