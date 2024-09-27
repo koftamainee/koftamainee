@@ -1,1 +1,1 @@
-<h1 align="center">I use arch btw</h1>
+# i use arch btw
