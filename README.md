@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm David</h1>
-<h3 align="center">Computer science student from Moscow 💻</h3>
+<h3 align="center">Computer science student from Moscow 💻 (and i use arch btw)</h3>
 
 ## Contact Me
 
