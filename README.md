@@ -1,5 +1,5 @@
-<a><img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="width: auto; height: 30%;"></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=falsee" style="width: auto; height: 30%;"></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="width: auto; height: 20%;"></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=falsee" style="width: auto; height: 20%;"></a>
 
 
 <picture>
