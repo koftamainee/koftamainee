@@ -1,4 +1,6 @@
-![](https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<a><img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=falsee"></a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koftamainee/koftamainee/output/github-contribution-grid-snake-dark.svg" />
