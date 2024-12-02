@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋 I'm David</h1>
+<h3>I am computer science student from Moscow</h3>
+
+## Contact Me
+
+<a href="https://t.me/koftamainee"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="50px"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px"></a>
+
+
+
+
+
 <div style="display: flex; justify-content: center;">
 <a><img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="170px"></a>
 <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=falsee" height="170px"></a>
