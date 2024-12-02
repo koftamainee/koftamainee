@@ -8,9 +8,9 @@
 <a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px"></a>
 
 ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="200px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200px">
+<div style="display: flex; justify-content: center;" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
 
