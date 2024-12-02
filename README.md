@@ -1,6 +1,7 @@
-<a><img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="width: auto; height: 20%;"></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=falsee" style="width: auto; height: 20%;"></a>
-
+<div style="display: flex; justify-content: center;">
+<a><img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="100px"></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=falsee" height="100px"></a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koftamainee/koftamainee/output/github-contribution-grid-snake-dark.svg" />
