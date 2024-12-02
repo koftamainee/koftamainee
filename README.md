@@ -8,9 +8,8 @@
 <a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px"></a>
 
 <div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="130px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=falsee" height="130px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="130px">
+<img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px">
 </div>
 
 
