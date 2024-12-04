@@ -8,10 +8,14 @@
 <a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px"></a>
 
 ## 📊 GitHub Stats:
-<div width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="200px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200px">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="200px">
+  <img alt="https://github-readme-stats.vercel.app/api?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="200px">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200px">
+  <img alt="https://github-readme-stats.vercel.app/api/top-langs/?username=koftamainee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200px">
+</picture>
 
 
 <picture>
@@ -21,6 +25,5 @@
 </picture>
 
 <br>
-
 <br>
 <img src="https://visitcount.itsvg.in/api?id=koftamainee&icon=0&color=0">
