@@ -13,6 +13,3 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<br>
-<br>
-<img src="https://visitcount.itsvg.in/api?id=koftamainee&icon=0&color=0">
