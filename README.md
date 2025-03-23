@@ -7,26 +7,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=koftamainee&show_icons=true&theme=radical">
 </div>
-
-<h2 align="center">⚙️ Tech Stack</h2>
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="100" height="100"/>
-</div>
-
-
 
 <h2 align="center">📫 Let's Connect </h2>
           
 <div align="center">
-<a href="https://t.me/koftamainee"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="100"></a>
+<a href="https://t.me/koftamainee"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="50"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="100"></a>
+<a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50"></a>
 </div>
 
 <picture>
