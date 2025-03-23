@@ -20,12 +20,14 @@
 </div>
 
 
-<h2>📫 Let's Connect </h2>
-          
 
-<a href="https://t.me/koftamainee"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="50px"></a>
+<h2 align="center">📫 Let's Connect </h2>
+          
+<div align="center">
+<a href="https://t.me/koftamainee"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="100"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px"></a>
+<a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="100"></a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koftamainee/koftamainee/output/github-contribution-grid-snake-dark.svg" />
