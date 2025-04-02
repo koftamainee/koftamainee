@@ -2,13 +2,6 @@
 <h3 align="center">Computer science student from Moscow 💻</h3>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=dark">
-</div>
-
 <h2 align="center">📫 Let's Connect </h2>
           
 <div align="center">
