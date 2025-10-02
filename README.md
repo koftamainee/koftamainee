@@ -16,8 +16,5 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-
-
-   <h2 align="right"> I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch linux" alt="Arch linux" width="25" height="25"/>, btw</h2>
           
 
