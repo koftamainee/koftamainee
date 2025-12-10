@@ -81,6 +81,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/cat_good.gif" width="300">
+  <img src="gifs/animation_gif.gif" width="300">
 </div>
