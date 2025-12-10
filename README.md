@@ -16,5 +16,5 @@
 
 <div align="center">
   also check this <br><br>
-  <img src="osu.gif" width="300">
+  <img src="{RANDOM_GIF}" width="300">
 </div>
