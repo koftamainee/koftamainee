@@ -88,6 +88,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/pigs_cute.gif" width="300">
+  <img src="gifs/pig_drinks.gif" width="300">
 </div>
