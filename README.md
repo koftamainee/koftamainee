@@ -34,6 +34,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/cat_boom.gif" width="300">
+  <img src="gifs/pigs_cute.gif" width="300">
 </div>
