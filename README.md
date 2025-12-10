@@ -52,6 +52,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/cat_good_2.gif" width="300">
+  <img src="gifs/pig_drinks.gif" width="300">
 </div>
