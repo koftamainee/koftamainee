@@ -137,6 +137,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/spin.gif" width="300">
+  <img src="gifs/blink.gif" width="300">
 </div>
