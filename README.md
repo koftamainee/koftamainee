@@ -93,6 +93,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/blink.gif" width="300">
+  <img src="gifs/cat_good.gif" width="300">
 </div>
