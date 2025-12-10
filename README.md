@@ -16,5 +16,5 @@
 
 <div align="center">
   also check this <br><br>
-  <img src="{RANDOM_GIF}" width="300">
+  <img src="gifs/ILoveMyInternetFriends.gif" width="300">
 </div>
