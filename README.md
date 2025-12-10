@@ -182,6 +182,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/hutaopat1.gif" width="300">
+  <img src="gifs/aubrey_sad.gif" width="300">
 </div>
