@@ -51,6 +51,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/bocchi_reaction.gif" width="300">
+  <img src="gifs/cat_good_2.gif" width="300">
 </div>
