@@ -16,5 +16,5 @@
 
 <div align="center">
   also check this <br><br>
-  <img src="gifs/spati.gif" width="300">
+  <img src="gifs/animation_gif.gif" width="300">
 </div>
