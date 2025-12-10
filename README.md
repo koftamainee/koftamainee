@@ -259,6 +259,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/spin.gif" width="300">
+  <img src="gifs/animation_gif.gif" width="300">
 </div>
