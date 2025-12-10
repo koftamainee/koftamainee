@@ -16,5 +16,5 @@
 
 <div align="center">
   also check this <br><br>
-  <img src="gifs/mmumumumumumumum.gif" width="300">
+  <img src="gifs/pigs_cute.gif" width="300">
 </div>
