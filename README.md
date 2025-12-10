@@ -33,6 +33,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/apple.gif.gif" width="300">
+  <img src="gifs/cat_boom.gif" width="300">
 </div>
