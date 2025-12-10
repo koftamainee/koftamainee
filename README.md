@@ -242,6 +242,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/adzusa_tort.gif" width="300">
+  <img src="gifs/vergil_ok.gif" width="300">
 </div>
