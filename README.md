@@ -122,6 +122,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/apple.gif.gif" width="300">
+  <img src="gifs/pig_drinks.gif" width="300">
 </div>
