@@ -99,6 +99,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/cat_good.gif" width="300">
+  <img src="gifs/cat_mitoz.gif" width="300">
 </div>
