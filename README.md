@@ -267,6 +267,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/bocchi_reaction.gif" width="300">
+  <img src="gifs/spati.gif" width="300">
 </div>
