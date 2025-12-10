@@ -98,6 +98,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/esqueleto.gif" width="300">
+  <img src="gifs/cat_good.gif" width="300">
 </div>
