@@ -125,6 +125,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/esqueleto.gif" width="300">
+  <img src="gifs/vergil_ok.gif" width="300">
 </div>
