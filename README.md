@@ -16,5 +16,5 @@
 
 <div align="center">
   also check this <br><br>
-  <img src="gifs/animation_gif.gif" width="300">
+  <img src="gifs/bocchi_reaction.gif" width="300">
 </div>
