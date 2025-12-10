@@ -3,18 +3,3 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <h2 align="center">📫 Let's Connect </h2>
-          
-<div align="center">
-<a href="https://t.me/koftamainee"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="50"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:koftamainee@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50"></a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koftamainee/koftamainee/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koftamainee/koftamainee/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-          
-
