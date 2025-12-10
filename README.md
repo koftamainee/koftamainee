@@ -104,6 +104,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/ILoveMyInternetFriends.gif" width="300">
+  <img src="gifs/hutaopat2.gif" width="300">
 </div>
