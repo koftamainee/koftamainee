@@ -281,6 +281,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/pearto.gif" width="300">
+  <img src="gifs/animation_gif.gif" width="300">
 </div>
