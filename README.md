@@ -21,6 +21,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/aubrey_sad.gif" width="300">
+  <img src="gifs/yipeee.gif" width="300">
 </div>
