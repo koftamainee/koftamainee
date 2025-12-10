@@ -15,6 +15,5 @@
 
 
 <div align="center">
-  also check this <br><br>
   <img src="gifs/hutaopat2.gif" width="300">
 </div>
