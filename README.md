@@ -16,5 +16,5 @@
 
 <div align="center">
   also check this <br><br>
-  <img src="gifs/isec.gif" width="300">
+  <img src="gifs/k-on.gif" width="300">
 </div>
