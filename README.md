@@ -299,6 +299,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/unluck.gif" width="300">
+  <img src="gifs/cat_mitoz.gif" width="300">
 </div>
