@@ -157,6 +157,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/apple.gif.gif" width="300">
+  <img src="gifs/yipeee.gif" width="300">
 </div>
