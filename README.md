@@ -207,6 +207,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/pig_drinks.gif" width="300">
+  <img src="gifs/spin.gif" width="300">
 </div>
