@@ -144,6 +144,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/animation_gif.gif" width="300">
+  <img src="gifs/isec.gif" width="300">
 </div>
