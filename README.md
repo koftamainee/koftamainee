@@ -247,6 +247,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/bocchi_reaction.gif" width="300">
+  <img src="gifs/aubrey_sad.gif" width="300">
 </div>
