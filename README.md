@@ -94,6 +94,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/cat_good.gif" width="300">
+  <img src="gifs/hutaopat2.gif" width="300">
 </div>
