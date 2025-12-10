@@ -16,6 +16,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/k-on.gif" width="300">
+  <img src="gifs/hutaopat1.gif" width="300">
 </div>
