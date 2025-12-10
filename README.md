@@ -200,6 +200,7 @@
 
 
 
+
 <div align="center">
-  <img src="gifs/unluck.gif" width="300">
+  <img src="gifs/cat_good_2.gif" width="300">
 </div>
