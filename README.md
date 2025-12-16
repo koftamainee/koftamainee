@@ -14,5 +14,5 @@
 <br>
 
 <div align="center">
-  <img src="gifs/animation_gif.gif" width="300">
+  <img src="gifs/mmumumumumumumum.gif" width="300">
 </div>
