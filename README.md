@@ -14,5 +14,5 @@
 <br>
 
 <div align="center">
-  <img src="gifs/pearto.gif" width="300">
+  <img src="gifs/osu.gif" width="300">
 </div>
