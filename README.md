@@ -12,8 +12,3 @@
 </div>
 
 <br>
-
-
-<div align="center">
-  <img src="gifs/cap.gif" width="300">
-</div>
