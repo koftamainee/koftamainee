@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="gifs/cat_mitoz.gif" width="300">
+  koftamainee aka я не умею программировать
 </div>
