@@ -4,5 +4,5 @@
 <br>
 <div align="center">
   
-    koftamainee, aka я не умею программировать
+    I used to do a lot of programming prostitution, but now I'm a clown on the Internet.
 </div>
