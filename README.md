@@ -4,5 +4,5 @@
 <br>
 <div align="center">
 
-    I used to do a lot of programming prostitution, but now I'm a clown on the Internet.
+    I will write frontend in LLVM IR
 </div>
