@@ -4,5 +4,5 @@
 <br>
 <div align="center">
 
-    I will write frontend in LLVM IR
+    I will write website frontend in LLVM IR
 </div>
