@@ -37,7 +37,7 @@
 
 **Mantle Engine** — Vulkan render graph, flecs ECS, Jolt physics, and an allocator hierarchy nobody asked for. MSVC's UB in release mode remains undefeated. Repo is private now, for reasons that remain undisclosed even to me.
 
-**[mint](https://github.com/koftamainee/mint)** — Mantle's asset pipeline, written in Rust because the engine wasn't suffering enough already. Converts glTF/textures/shaders into zero-overhead binary formats, with hot-reload for live-streaming your mistakes straight into the engine .
+**[mint](https://github.com/koftamainee/mint)/[mintload](https://github.com/koftamainee/mintload)** — Mantle's asset pipeline, written in Rust (and some C/C++) because the engine wasn't suffering enough already. Converts glTF/textures/shaders into zero-overhead binary formats, with hot-reload for live-streaming your mistakes straight into the engine.
 
 **[search-engine](https://github.com/koftamainee/search-engine)** — a microservice search engine built with friends in our spare time: Go crawler + indexer, Meilisearch-backed initial search API, Nuxt frontend, Postgres/Redis/NATS holding it all together, and a Rust metrics service that nobody has gotten around to implementing yet. Used to be live at [search.koftamainee.ru](https://search.koftamainee.ru) until my Yandex Cloud trial grant ran out — RIP.
 
