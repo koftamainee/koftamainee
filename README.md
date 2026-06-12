@@ -47,13 +47,6 @@ For the curious: **[rgu-labs](https://github.com/rgu-labs)** — every universit
 
 <br>
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koftamainee&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
 ### 🎨 Beyond code
 
 - 📷 Photography (Nikon D3400, 35mm f/1.8 — as long as it's in focus)
