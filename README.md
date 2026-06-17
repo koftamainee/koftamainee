@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cat_good.gif" width="260">
+  <img src="assets/sticker.gif" width="260">
 </div>
 
 <h1 align="center">koftamainee</h1>
