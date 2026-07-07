@@ -13,7 +13,7 @@
 
 ### 🎯 What I'm doing
 
-- 🎓 Applied Math & CS, second year, Moscow — learning to pretend I understand probability theory
+- 🎓 Applied Math & CS, third year, Moscow — learning to pretend I understand probability theory
 - 🛠️ Building Mantle — a custom C++23 game engine. Planning to ship a game on Steam, ETA: 2077 (give or take a century)
 - 🦀 Poking at Rust and Go in my free time from studying
 - 🐧 Arch Linux + Niri — suffering as a personality trait
