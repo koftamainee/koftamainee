@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white" />
   <img src="https://img.shields.io/badge/-Undefined%20Behavior-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/-printf%20debugging-FF4500?style=flat-square&logo=gnu&logoColor=white" />
 </p>
 
 <br>
