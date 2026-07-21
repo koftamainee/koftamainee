@@ -33,7 +33,7 @@
 
 ### 🏗️ Projects
 
-**[mantle](https://github.com/koftamainee/mantle)** — Game engine or smth. Vulkan render graph, flecs ECS, Jolt physics, and an allocator hierarchy nobody asked for. MSVC's UB in release mode remains undefeated.
+**[mantle](https://github.com/koftamainee/mantle-engine)** — Game engine or smth. Vulkan render graph, flecs ECS, Jolt physics, and an allocator hierarchy nobody asked for. MSVC's UB in release mode remains undefeated.
 
 **[mint](https://github.com/koftamainee/mint)/[mintload](https://github.com/koftamainee/mintload)** — Mantle's asset pipeline, written in Rust (and some C/C++) because the engine wasn't suffering enough already. Converts glTF/textures/shaders into zero-overhead binary formats, with hot-reload for live-streaming your mistakes straight into the engine.
 
